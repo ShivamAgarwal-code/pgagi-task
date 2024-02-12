@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.359a8a88.css",
+    "main.js": "/static/js/main.5ed27d6e.js",
+    "static/media/HiringBuzz.png": "/static/media/HiringBuzz.839c9f29b04012a9fd46.png",
+    "static/media/HiringBuzz1.svg": "/static/media/HiringBuzz1.09d9234f2f100c9252ef05c1bd99ed95.svg",
+    "index.html": "/index.html",
+    "main.359a8a88.css.map": "/static/css/main.359a8a88.css.map",
+    "main.5ed27d6e.js.map": "/static/js/main.5ed27d6e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.359a8a88.css",
+    "static/js/main.5ed27d6e.js"
+  ]
+}
